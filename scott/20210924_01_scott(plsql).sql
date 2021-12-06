@@ -1,0 +1,5 @@
+SELECT USER
+FROM DUAL;
+--==> SCOTT
+
+
